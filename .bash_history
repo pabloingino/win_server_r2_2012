@@ -8,3 +8,5 @@ ls
 ls -la
 ls
 sudo -i
+ls
+sudo -i
